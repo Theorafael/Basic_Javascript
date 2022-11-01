@@ -43,4 +43,5 @@ function makan (status, food{
 var p1 = new makan('ahtong', 'opor');
 p1.changestatus('selesai makan')
 console.log(p1.status + "madang" + p1.)
+
 */

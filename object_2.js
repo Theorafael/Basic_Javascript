@@ -1,11 +1,11 @@
-// 31.2
+// Lesson 31.2
 function person(length, width, height) {
     return console.log(length * width * height)
 }
 
 person(15, 100, 200)
 
-// 32.2
+// Lesson 32.2
 function main() {
     
     var flightNumber = "NGT 929";
@@ -22,7 +22,7 @@ function Flight(flightNumber, status) {
 main()
 
 
-// 34.2
+// Lesson 34.2
 function main() {
     var prodID = "LD1493";
     var price = 1700;
@@ -48,7 +48,7 @@ main()
 
 
 
-// 36
+// Lesson 36
 function contact(name, number) {
     this.name = name;
     this.number = number;
